@@ -41,4 +41,4 @@ components.html(iframe_html, height=height)
 
 # Footer reducido
 st.markdown("---")
-st.caption("Testeando")
+st.caption("Dashboard Power BI")
