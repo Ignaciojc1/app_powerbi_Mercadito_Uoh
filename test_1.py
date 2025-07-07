@@ -26,7 +26,7 @@ st.markdown(header_html, unsafe_allow_html=True)
 # URL fijo de Power BI (Publish to web)
 embed_url = (
     "https://app.powerbi.com/view?r="
-    "eyJrIjoiMjRjZDY2MDUtOWMyOC00NWM1LTg4YWMtZmMwN2FmYTE4MmNjIiwidCI6IjUzMGM5NWRiLTMzMTEtNDI3Mi1hYzcxLTgyZmJhNjAwZTBiMSIsImMiOjR9"
+    "eyJrIjoiMzkxMzY4MDEtMzc4ZS00NjA1LWIyMGYtZmQ5Y2Q4NTc3Zjk4IiwidCI6IjUzMGM5NWRiLTMzMTEtNDI3Mi1hYzcxLTgyZmJhNjAwZTBiMSIsImMiOjR9"
 )
 
 # Embed del iframe que ocupa todo el ancho con altura fija
